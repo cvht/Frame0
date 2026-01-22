@@ -4,6 +4,8 @@
 
 Frame0 就是专门解决这个问题的——一款手绘风格的线框图绘制工具，让你的原型看起来「故意不完美」，这样大家就能把注意力放在真正重要的地方。
 
+<img width="3090" height="1675" alt="image" src="https://github.com/user-attachments/assets/5dc6fb1f-9659-49d7-ab3b-39b5a2fdac20" />
+
 ## 这玩意儿到底是干啥的
 
 Frame0 是个跨平台的线框图工具，支持 Windows、macOS 和 Linux。它最大的特点就是那种手绘风格——所有组件看起来都像是用笔随手画出来的，带着那么点「草稿感」。
